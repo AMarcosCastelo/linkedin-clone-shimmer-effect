@@ -1,3 +1,7 @@
+<h1 align="center">
+  Linkedin clone and Shimmer Effect: <a href="https://linkedin-clone-shimmer-effect.netlify.app/" target="_blank">See a preview</a>
+</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
